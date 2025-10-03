@@ -1,0 +1,17 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.hero {
+  background: linear-gradient(to right, #8e2de2, #4a00e0);
+}
+
+h2 {
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.card-title {
+  font-weight: 600;
+}
